@@ -2,12 +2,12 @@
 Eine gute Grundlage für den Start in die objekt-orientierte Programmierung.
 
 ## Verwendung
-Die Datei setzt die Grundstruktur, um in die objekt-orientierte Programmierung zu starten. Eignet sich gut für Angfänger:innen.
+Die Datei setzt die Grundstruktur, um in die objekt-orientierte Programmierung zu starten. Eignet sich gut für Anfänger:innen.
 
 <img src="https://user-images.githubusercontent.com/87370267/208676721-1adb348d-5414-4e45-a04a-3fac7fb9171b.png" width="400">
 
 ## Voraussetzung
-Sie benötigen eine Java-Umgebung wie IntelliJ. Außerdem brauchem sie das aktuelle JDK.
+Sie benötigen eine Java-Umgebung wie IntelliJ. Außerdem brauchem sie das aktuelle OpenJDK.
 
 ## Installationsvorgang
 Die Java-File herunterladen und auf der Festplatte speichern. IntelliJ und anschließend ihre Datei in einem neuen Projekt öffnen. 
